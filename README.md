@@ -1,4 +1,4 @@
-preview
+
 <h1 align="center">Hi 👋, I'm Shivangi Shrikant</h1>
 <h3 align="center">Full Stack Developer specializing in building scalable web applications using the MERN stack.</h3>
 
