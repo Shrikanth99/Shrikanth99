@@ -15,4 +15,4 @@
 | **Polls App**       | Create & vote on 100+ polls with analytics                    | [Frontend](https://github.com/Shrikanth99/Polls-App-frontEnd) \| [Backend](https://github.com/Shrikanth99/Polls-App-backend) |
 
 ## 📫 Contact Me
-[LinkedIn](https://linkedin.com/in/shrikant-shivangi-00954b209) | Email: shrikanthshivangi999@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shivangi-fullstack-dev/) | Email: shrikanthshivangi999@gmail.com
