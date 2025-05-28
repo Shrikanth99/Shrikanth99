@@ -12,7 +12,7 @@
 |-------------------|---------------------------------------------------------------|---------------------|
 | **Book Store App**  | E-commerce app with role-based access, Stripe payments, AWS S3| [Frontend](https://github.com/Shrikanth99/Books-Store_FrontEnd) \| [Backend](https://github.com/Shrikanth99/Books-Store-Backend) |
 | **Expense Tracker** | Expense dashboard tracking 500+ transactions                  | [Frontend](https://github.com/Shrikanth99/Expense-FrontEnd-UI) \| [Backend](https://github.com/Shrikanth99/Expense-Backend) |
-| **Polls App**       | Create & vote on 100+ polls with analytics                    | [Frontend](https://github.com/Shrikanth99/Polls-App-frontEnd) \| [Backend](https://github.com/Shrikanth99/Polls-App-backend) |
+| **Polls App**       | Create & vote on 100+ polls with analytics                    | [Frontend](https://github.com/Shrikanth99/Polling/tree/main/frontend) \| [Backend](https://github.com/Shrikanth99/Polling/tree/main/backend) |
 
 ## 📫 Contact Me
 [LinkedIn](https://www.linkedin.com/in/shivangi-fullstack-dev/) | Email: shrikanthshivangi999@gmail.com
